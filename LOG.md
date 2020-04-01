@@ -1,7 +1,7 @@
-Date | Natasja | Rebecca | Lotte
---- | --- | --- | ---
-Mon 30/03 |  | |
-Tue 31/03 |  | |
-Wed 01/04 |  | |
-Thu 02/04 |  | |
-Fri 03/04 |  | |
+Date | Allemaal | Natasja | Rebecca | Lotte
+--- | --- | --- | --- | ---
+Mon 30/03 | | github enzo opgezet | |
+Tue 31/03 | Zoom meeting | data van vraag 2 en 3C ingeladen en bij 2 heb ik allemaal barcharts en histograms gemaakt om het een beetje te exploren :) | |
+Wed 01/04 | | | |
+Thu 02/04 | | | |
+Fri 03/04 | | | |
