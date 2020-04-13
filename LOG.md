@@ -1,7 +1,7 @@
 Date | Allemaal | Natasja | Rebecca | Lotte
 --- | --- | --- | --- | ---
 Wo 15/04 | --- | Jarig zijn :D |  | ---
-Di 14/04 | Zoom 10u | Lecture 4 gekeken |  | ---
+Di 14/04 | Zoom 10u | Lecture 4 gekeken | Task1 classifier met courses | ---
 Ma 13/04 | Tweede paasdag vieren | Opdracht 3 (deels) uitgewerkt in Overleaf |  | ---
 Zo 12/04 | Eerste paasdag vieren | --- |  | ---
 Za 11/04 | --- | Spam/ham verbeteren | | ---
