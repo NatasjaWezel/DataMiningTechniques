@@ -1,7 +1,7 @@
 Date | Allemaal | Natasja | Rebecca | Lotte
 --- | --- | --- | --- | ---
-Vr 10/04 | --- | --- | --- | ---
-Do 09/04 | --- | --- | --- | ---
+Vr 10/04 | --- | --- | Oh we houden niet echt meer een logboek bij wat jammer nou ik vond het net zo leuk  | ---
+Do 09/04 | --- | --- | Nu ook nog met Kneighbors als classifier | ---
 Wo 08/04 | --- | --- | Verder gekeken naar plotjes voor vraag 2 en welke 2 classifiers we willen gebruiken (tot nu toe alleen random forest) | ---
 Di 07/04 | --- | --- | --- | Het schoonmaken van de data voor vraag 1 afgemaakt
 Ma 06/04 | --- | --- | --- | Q&A 2 teruggekeken, was niet heel nuttig
