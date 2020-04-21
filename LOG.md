@@ -2,8 +2,8 @@ Date | Allemaal | Natasja | Rebecca | Lotte
 --- | --- | --- | --- | ---
 Vr 24/04 | --- | --- | --- | ---
 Do 23/04 | --- | --- | --- | ---
-Wo 22/04 | --- | --- | --- | ---
-Di 21/04 | --- | Logboek bijgewerkt | Overleaf assignment 2 gemaakt | ---
+Wo 22/04 | Zoom om 9:30: pva maken? | --- | --- | ---
+Di 21/04 | --- | Logboek bijgewerkt, opdracht doorgelezen | Overleaf assignment 2 gemaakt | ---
 Ma 20/04 | --- | Lecture 5 en 6 gekeken | --- | Herkansing leren
 Zo 19/04 | --- | Verslag nagelezen en ingeleverd | --- | ---
 Za 18/04 | --- | --- | --- | ---
