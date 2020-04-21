@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large data assignment 2
+*.csv
+
+# Funny jokes
+compilatie/
