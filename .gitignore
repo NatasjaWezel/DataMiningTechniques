@@ -130,6 +130,7 @@ dmypy.json
 
 # Large data assignment 2
 *.csv
+*.hdf
 
 # Funny jokes
 compilatie/
