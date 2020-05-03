@@ -134,3 +134,6 @@ dmypy.json
 
 # Funny jokes
 compilatie/
+
+# MAC stuff
+.DS_Store
